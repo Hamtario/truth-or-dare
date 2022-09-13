@@ -1,0 +1,1 @@
+basic.show_string("Truth o Dare")
